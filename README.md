@@ -1,0 +1,2 @@
+# MMBConfigData
+springcloud config test!
